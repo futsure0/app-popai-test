@@ -1,2 +1,2 @@
 # app-popai-test
-This is a test purchase on Popai Net.
+This is the test code for running E2E tests on Popainet.
